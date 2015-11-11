@@ -18,6 +18,7 @@ public class JavaApplication2 {
    public static void main(String[] args) { 
        //outputs greeting to the world in the console
       System.out.println("Hello, World");
+      System.out.println();
    }
     
 }
